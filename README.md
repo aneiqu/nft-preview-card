@@ -23,8 +23,6 @@ Users should be able to:
 
 ![screenshot](./screenshot.png)
 
-A
-
 ### Links
 
 - Solution URL: [LINK](https://github.com/aneiqu/nft-preview-card/)
