@@ -27,8 +27,8 @@ A
 
 ### Links
 
-- Solution URL: [LINK](https://your-solution-url.com)
-- Live Site URL: [LINK](https://your-live-site-url.com)
+- Solution URL: [LINK](https://github.com/aneiqu/nft-preview-card/)
+- Live Site URL: [LINK](https://aneiqu.github.io/nft-preview-card/)
 
 ## Author
 
